@@ -1,0 +1,2 @@
+# minitrends
+Linkedin AI insights
